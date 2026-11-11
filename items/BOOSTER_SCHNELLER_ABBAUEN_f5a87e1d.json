@@ -1,0 +1,24 @@
+{
+  "internalname": "BOOSTER_SCHNELLER_ABBAUEN_f5a87e1d",
+  "displayname": "BOOSTER | Schneller abbauen",
+  "material": "BOOK",
+  "cmd": 0,
+  "category": "BUECHER",
+  "damage": 0,
+  "lore": [
+    "",
+    "Mit diesem Booster erhältst du selbst",
+    "72 Stunden lang einen 60% Abbaubooster.",
+    "",
+    "[Du kannst den Booster unter /booster aktivieren]",
+    "",
+    "Wichtig: Zeitablauf beginnt ab Aktivierung",
+    "unabhängig von Spiel- oder Onlinezeit.",
+    "",
+    "Gewinntyp » Befehl",
+    "Seltenheit » Legendär"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"green\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"BOOSTER \",underlined:0b},{bold:0b,color:\"dark_gray\",italic:0b,text:\"| \"},{color:\"white\",italic:0b,text:\"Schneller abbauen\"}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"green\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"BOOSTER \",underlined:0b},{bold:0b,color:\"dark_gray\",italic:0b,text:\"| \"},{color:\"white\",italic:0b,text:\"Schneller abbauen\"}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"yellow\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Mit diesem Booster erhältst du selbst\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"yellow\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"72 Stunden lang einen 60% Abbaubooster.\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"red\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"[Du kannst den Booster unter /booster aktivieren]\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Wichtig: Zeitablauf beginnt ab Aktivierung\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"unabhängig von Spiel- oder Onlinezeit.\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Befehl\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"red\",italic:0b,text:\"Legendär\"}],text:\"\"}]},count:1,id:\"minecraft:book\"}",
+  "capturedAt": "2026-11-11T21:35:51.560425800Z",
+  "source": "multimod-scanner"
+}
