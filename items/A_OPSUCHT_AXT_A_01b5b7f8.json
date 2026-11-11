@@ -12,6 +12,12 @@
     "Gewinntyp » Item",
     "Seltenheit » Jackpot"
   ],
+  "enchantments": {
+    "minecraft:efficiency": 12,
+    "minecraft:fortune": 3,
+    "minecraft:mending": 2,
+    "minecraft:unbreaking": 10
+  },
   "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:0b,color:\"aqua\",italic:0b,obfuscated:1b,strikethrough:0b,text:\"a\",underlined:0b},{color:\"gray\",italic:0b,obfuscated:0b,text:\"❃ \"},{bold:1b,color:\"red\",italic:0b,text:\"OPSucht \"},{bold:1b,color:\"yellow\",italic:0b,text:\"Axt \"},{bold:0b,color:\"gray\",italic:0b,text:\"❃\"},{color:\"aqua\",italic:0b,obfuscated:1b,text:\"a\"}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:efficiency\":12,\"minecraft:fortune\":3,\"minecraft:mending\":2,\"minecraft:unbreaking\":10},\"minecraft:lore\":[{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"green\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"☣ \",underlined:0b},{color:\"yellow\",italic:0b,text:\"Axt \"},{color:\"gray\",italic:0b,text:\"erstellt vom \"},{color:\"red\",italic:0b,text:\"OPSucht.NET\"},{color:\"red\",italic:0b,text:\" \"},{color:\"gray\",italic:0b,text:\"Netzwerk. \"},{color:\"green\",italic:0b,text:\"☣\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_red\",italic:0b,text:\"Jackpot\"}],text:\"\"}]},count:1,id:\"minecraft:diamond_axe\"}",
   "capturedAt": "2026-05-14T10:31:03.437329100Z"
 }

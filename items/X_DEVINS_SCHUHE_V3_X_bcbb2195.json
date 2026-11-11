@@ -12,6 +12,13 @@
     "Gewinntyp » Item",
     "Seltenheit » Episch"
   ],
+  "enchantments": {
+    "minecraft:fire_protection": 7,
+    "minecraft:protection": 10,
+    "minecraft:respiration": 7,
+    "minecraft:thorns": 4,
+    "minecraft:unbreaking": 8
+  },
   "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:0b,color:\"red\",italic:0b,obfuscated:1b,strikethrough:0b,text:\"x\",underlined:0b},{color:\"dark_gray\",italic:0b,obfuscated:0b,text:\"● \"},{bold:1b,color:\"dark_red\",italic:0b,text:\"Devins \"},{bold:1b,color:\"aqua\",italic:0b,text:\"Schuhe \"},{bold:0b,color:\"aqua\",italic:1b,text:\"v3 \"},{color:\"dark_gray\",italic:0b,text:\"●\"},{color:\"red\",italic:0b,obfuscated:1b,text:\"x\"}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:fire_protection\":7,\"minecraft:protection\":10,\"minecraft:respiration\":7,\"minecraft:thorns\":4,\"minecraft:unbreaking\":8},\"minecraft:lore\":[{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➫ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Signiert von \"},{color:\"dark_red\",italic:0b,text:\"leDevin \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"aqua\",italic:0b,text:\"07\"},{color:\"gray\",italic:0b,text:\".\"},{color:\"aqua\",italic:0b,text:\"07\"},{color:\"gray\",italic:0b,text:\".\"},{color:\"aqua\",italic:0b,text:\"2022\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_purple\",italic:0b,text:\"Episch\"}],text:\"\"}]},count:1,id:\"minecraft:diamond_boots\"}",
   "capturedAt": "2026-05-14T08:59:38.108600400Z"
 }

@@ -6,6 +6,11 @@
   "category": "WERKZEUGE",
   "damage": 0,
   "lore": [],
+  "enchantments": {
+    "minecraft:lure": 3,
+    "minecraft:mending": 1,
+    "minecraft:unbreaking": 3
+  },
   "nbttag": "{components:{\"minecraft:custom_name\":{extra:[\"Trödel-Angel\"],text:\"\"},\"minecraft:enchantments\":{\"minecraft:lure\":3,\"minecraft:mending\":1,\"minecraft:unbreaking\":3},\"minecraft:repair_cost\":3},count:1,id:\"minecraft:fishing_rod\"}",
   "capturedAt": "2026-11-11T22:34:53.813744300Z",
   "source": "multimod-scanner"
