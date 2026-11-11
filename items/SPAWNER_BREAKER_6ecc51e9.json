@@ -1,0 +1,27 @@
+{
+  "internalname": "SPAWNER_BREAKER_6ecc51e9",
+  "displayname": "Spawner Breaker",
+  "material": "GOLDEN_HORSE_ARMOR",
+  "cmd": 956,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "Er bricht die uralte Bindung,",
+    "zwischen Spawner und der Welt.",
+    "",
+    "➥ Effekt: Baut einen Spawner ab (Rechtsklick)",
+    "",
+    "Effekt wirkt nur auf der Redstone-Welt",
+    "Spawnegg geht verloren nach Abbau des Spawners",
+    "Spawner droppt nach Abbau",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Jackpot",
+    " ",
+    "Haltbarkeit: 0/1"
+  ],
+  "nbttag": "{components:{\"minecraft:attribute_modifiers\":[],\"minecraft:custom_data\":{IWCustomItems:{abilities:[{SPAWNER_BREAKER:1}],usage:{current:0,max:1},worlds:[\"redstone\"]}},\"minecraft:custom_model_data\":{floats:[956.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#951F24\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Spawner Breaker\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"#951F24\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Spawner Breaker\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"#951F24\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Er bricht die uralte Bindung,\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"#951F24\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"zwischen Spawner und der Welt.\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Baut einen Spawner ab \"},{color:\"dark_gray\",italic:1b,text:\"(Rechtsklick)\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Effekt wirkt nur auf der Redstone-Welt\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Spawnegg geht verloren nach Abbau des Spawners\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Spawner droppt nach Abbau\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_red\",italic:0b,text:\"Jackpot\"}],text:\"\"},{extra:[\" \"],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Haltbarkeit: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"0\"},{color:\"gray\",italic:0b,text:\"/\"},{color:\"aqua\",italic:0b,text:\"1\"},{color:\"gray\",italic:0b,text:\"\"}],text:\"\"}]},count:1,id:\"minecraft:golden_horse_armor\"}",
+  "capturedAt": "2026-11-11T22:07:52.828591Z",
+  "source": "multimod-scanner"
+}
