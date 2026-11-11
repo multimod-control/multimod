@@ -1,0 +1,22 @@
+{
+  "internalname": "SCHAF_ERWEITERUNG_6bb8a0ec",
+  "displayname": "Schaf Erweiterung",
+  "material": "PAPER",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "Mehr Freunde auf deiner Restone-Welt!",
+    "",
+    "➥ Effekt: Erhöht dein Limit um 50 Schafe (Rechtsklick)",
+    "",
+    "Ticket gilt nur für die Redstone-Welt",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Unbezahlbar"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_data\":{PublicBukkitValues:{\"iwcoupons:data\":{\"iwcoupons:amount\":50,\"iwcoupons:name\":\"SHEEP\",\"iwcoupons:type\":\"ENTITY\"},\"iwcoupons:type\":\"REDSTONE_WORLD_LIMIT\"}},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#951F24\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Schaf Erweiterung\",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:mending\":1},\"minecraft:item_name\":{extra:[{bold:1b,color:\"#951F24\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Schaf Erweiterung\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"#951F24\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Mehr Freunde auf deiner Restone-Welt!\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Erhöht dein Limit um 50 Schafe \"},{color:\"dark_gray\",italic:1b,text:\"(Rechtsklick)\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Ticket gilt nur für die Redstone-Welt\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Unbezahlbar\"}],text:\"\"}],\"minecraft:tooltip_display\":{hidden_components:[\"minecraft:enchantments\"]}},count:1,id:\"minecraft:paper\"}",
+  "capturedAt": "2026-11-11T22:07:52.833709600Z",
+  "source": "multimod-scanner"
+}
