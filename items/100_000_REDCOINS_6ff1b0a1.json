@@ -1,0 +1,19 @@
+{
+  "internalname": "100_000_REDCOINS_6ff1b0a1",
+  "displayname": "100.000 Redcoins",
+  "material": "PAPER",
+  "cmd": 704,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "Redcoins kannst du beim Redstonehändler",
+    "auf dem Redstone-Server gegen besondere",
+    "Items eintauschen!",
+    "",
+    "Gewinntyp » Währung",
+    "Seltenheit » Legendär"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_model_data\":{floats:[704.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"red\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"100.000 Redcoins\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redcoins kannst du beim Redstonehändler\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"auf dem Redstone-Server gegen besondere\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Items eintauschen!\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Währung\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"red\",italic:0b,text:\"Legendär\"}],text:\"\"}]},count:1,id:\"minecraft:paper\"}",
+  "capturedAt": "2026-11-11T22:07:52.830111700Z",
+  "source": "multimod-scanner"
+}
