@@ -1,0 +1,20 @@
+{
+  "internalname": "BLOCKIERTRICHTER_5736da57",
+  "displayname": "Blockiertrichter",
+  "material": "HOPPER",
+  "cmd": 101,
+  "category": "BLOECKE",
+  "damage": 0,
+  "lore": [
+    "",
+    "Nimmt die Items nicht auf, welche man im Menü festlegt.",
+    "",
+    "➥ Effekt: Menü öffnen (Shift+Rechtsklick)",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Unbezahlbar"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_data\":{PublicBukkitValues:{\"iwcustomhoppers:type\":\"BLACKLIST\"}},\"minecraft:custom_model_data\":{floats:[101.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"dark_red\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Blockiertrichter\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"dark_red\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Blockiertrichter\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Nimmt die Items nicht auf, welche man im Menü festlegt.\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Menü öffnen \"},{color:\"dark_gray\",italic:1b,text:\"(Shift+Rechtsklick)\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Unbezahlbar\"}],text:\"\"}]},count:1,id:\"minecraft:hopper\"}",
+  "capturedAt": "2026-11-11T22:07:52.835215700Z",
+  "source": "multimod-scanner"
+}
