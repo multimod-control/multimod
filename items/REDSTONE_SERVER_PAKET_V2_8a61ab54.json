@@ -1,0 +1,16 @@
+{
+  "internalname": "REDSTONE_SERVER_PAKET_V2_8a61ab54",
+  "displayname": "Redstone Server Paket V2",
+  "material": "BLACK_SHULKER_BOX",
+  "cmd": 0,
+  "category": "BLOECKE",
+  "damage": 0,
+  "lore": [
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Episch"
+  ],
+  "nbttag": "{components:{\"minecraft:container\":[{item:{count:64,id:\"minecraft:dispenser\"},slot:0},{item:{count:64,id:\"minecraft:repeater\"},slot:1},{item:{count:64,id:\"minecraft:dispenser\"},slot:2},{item:{count:64,id:\"minecraft:redstone\"},slot:3},{item:{count:32,id:\"minecraft:observer\"},slot:4},{item:{count:64,id:\"minecraft:redstone\"},slot:5},{item:{count:64,id:\"minecraft:dispenser\"},slot:6},{item:{count:64,id:\"minecraft:comparator\"},slot:7},{item:{count:64,id:\"minecraft:dispenser\"},slot:8},{item:{count:64,id:\"minecraft:repeater\"},slot:9},{item:{count:64,id:\"minecraft:redstone_torch\"},slot:10},{item:{count:64,id:\"minecraft:repeater\"},slot:11},{item:{count:32,id:\"minecraft:observer\"},slot:12},{item:{count:16,id:\"minecraft:redstone_torch\"},slot:13},{item:{count:32,id:\"minecraft:observer\"},slot:14},{item:{count:64,id:\"minecraft:comparator\"},slot:15},{item:{count:64,id:\"minecraft:redstone_torch\"},slot:16},{item:{count:64,id:\"minecraft:comparator\"},slot:17},{item:{count:64,id:\"minecraft:dispenser\"},slot:18},{item:{count:64,id:\"minecraft:repeater\"},slot:19},{item:{count:64,id:\"minecraft:dispenser\"},slot:20},{item:{count:64,id:\"minecraft:redstone\"},slot:21},{item:{count:32,id:\"minecraft:observer\"},slot:22},{item:{count:64,id:\"minecraft:redstone\"},slot:23},{item:{count:64,id:\"minecraft:dispenser\"},slot:24},{item:{count:64,id:\"minecraft:comparator\"},slot:25},{item:{count:64,id:\"minecraft:dispenser\"},slot:26}],\"minecraft:custom_name\":{extra:[{bold:1b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redstone Server Paket V2\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redstone Server Paket V2\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_purple\",italic:0b,text:\"Episch\"}],text:\"\"}]},count:1,id:\"minecraft:black_shulker_box\"}",
+  "capturedAt": "2026-11-11T22:07:52.836720800Z",
+  "source": "multimod-scanner"
+}
