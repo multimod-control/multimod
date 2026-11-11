@@ -1,0 +1,23 @@
+{
+  "internalname": "REDSTONE_GLASSCHNEIDER_50de69d8",
+  "displayname": "Redstone Glasschneider",
+  "material": "SHEARS",
+  "cmd": 0,
+  "category": "WERKZEUGE",
+  "damage": 0,
+  "lore": [
+    "",
+    "Mit diesem Schneider baust du",
+    "Glas in Sekunden ab. ",
+    "",
+    "➥ Effekt: Baut Glas mit einem Klick ab (Linksklick)",
+    "",
+    "Effekt wirkt nur auf der Redstone-Welt",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Legendär"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_data\":{IWCustomItems:{abilities:[{GLASS_CUTTER:1}],worlds:[\"redstone\"]}},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#951F24\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redstone Glasschneider\",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:efficiency\":5,\"minecraft:silk_touch\":1},\"minecraft:item_name\":{extra:[{bold:1b,color:\"#951F24\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redstone Glasschneider\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"#951F24\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Mit diesem Schneider baust du\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"#951F24\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Glas in Sekunden ab. \",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Baut Glas mit einem Klick ab \"},{color:\"dark_gray\",italic:1b,text:\"(Linksklick)\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Effekt wirkt nur auf der Redstone-Welt\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"red\",italic:0b,text:\"Legendär\"}],text:\"\"}],\"minecraft:repair_cost\":3,\"minecraft:tooltip_display\":{hidden_components:[\"minecraft:enchantments\"]},\"minecraft:unbreakable\":{}},count:1,id:\"minecraft:shears\"}",
+  "capturedAt": "2026-11-11T22:07:52.830617100Z",
+  "source": "multimod-scanner"
+}
