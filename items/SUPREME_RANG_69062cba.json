@@ -1,0 +1,18 @@
+{
+  "internalname": "SUPREME_RANG_69062cba",
+  "displayname": "SUPREME RANG",
+  "material": "NETHER_STAR",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "Bereits in Besitz (Nicht ziehbar)",
+    "Du erhältst den SUPREME RANG permanent.",
+    "",
+    "Gewinntyp » Rang/Permission",
+    "Seltenheit » Unbezahlbar"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"light_purple\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"SUPREME RANG\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"red\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Bereits in Besitz (Nicht ziehbar)\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Du erhältst den \",underlined:0b},{color:\"light_purple\",italic:0b,text:\"SUPREME RANG \"},{color:\"white\",italic:0b,text:\"permanent.\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Rang/Permission\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Unbezahlbar\"}],text:\"\"}]},count:1,id:\"minecraft:nether_star\"}",
+  "capturedAt": "2026-11-11T21:21:56.062625100Z",
+  "source": "multimod-scanner"
+}
