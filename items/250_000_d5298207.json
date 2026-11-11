@@ -1,0 +1,16 @@
+{
+  "internalname": "250_000_d5298207",
+  "displayname": "250.000$",
+  "material": "PAPER",
+  "cmd": 20204,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "Gewinntyp » Geld",
+    "Seltenheit » Episch"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_model_data\":{floats:[20204.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"gold\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"250.000$\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"gold\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"250.000$\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Geld\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_purple\",italic:0b,text:\"Episch\"}],text:\"\"}]},count:1,id:\"minecraft:paper\"}",
+  "capturedAt": "2026-11-11T21:35:51.586447300Z",
+  "source": "multimod-scanner"
+}
