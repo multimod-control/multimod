@@ -1,0 +1,22 @@
+{
+  "internalname": "ANTI_CB1_CHAT_SCHILD_05e194f6",
+  "displayname": "Anti CB1-Chat Schild",
+  "material": "SHIELD",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "Chatschutz V",
+    "",
+    "Der Chat ist hoffnungslos",
+    "und verloren",
+    "",
+    "Gewinntyp >> Chatschutz",
+    "Seltenheit >> Hoffnungslos",
+    "────────────────────",
+    "Signiert von RandomAuto am 22.09.2026"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"red\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Anti CB1-Chat Schild\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{color:\"gray\",italic:0b,text:\"Chatschutz V\"}],text:\"\"},{extra:[{color:\"gray\",italic:0b,text:\"\"}],text:\"\"},{extra:[{color:\"red\",italic:0b,text:\"Der Chat ist hoffnungslos\"}],text:\"\"},{extra:[{color:\"red\",italic:0b,text:\"und verloren\"}],text:\"\"},{extra:[{color:\"gray\",italic:0b,text:\"\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp >> \",underlined:0b},{color:\"aqua\",italic:0b,text:\"Chatschutz\"}],text:\"\"},{extra:[{color:\"gray\",italic:0b,text:\"Seltenheit >> \"},{color:\"dark_red\",italic:0b,text:\"Hoffnungslos\"}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:1b,text:\"────────────────────\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert von \",underlined:0b},{color:\"red\",italic:0b,text:\"RandomAuto\"},{color:\"gray\",italic:0b,text:\" am \"},{color:\"aqua\",italic:0b,text:\"22.09.2026\"}],text:\"\"}]},count:1,id:\"minecraft:shield\"}",
+  "capturedAt": "2026-11-11T21:21:55.982464900Z",
+  "source": "multimod-scanner"
+}
