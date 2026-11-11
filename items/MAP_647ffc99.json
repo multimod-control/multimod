@@ -1,0 +1,14 @@
+{
+  "internalname": "MAP_647ffc99",
+  "displayname": "Map",
+  "material": "FILLED_MAP",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "Kopie"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_data\":{IWMapVirtualizerId:\"67c8d92dd2f9c14822b2046f\",IWMapVirtualizerOriginal:0b},\"minecraft:damage\":0,\"minecraft:lore\":[{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Kopie\",underlined:0b}],text:\"\"}],\"minecraft:map_id\":25057},count:1,id:\"minecraft:filled_map\"}",
+  "capturedAt": "2026-11-11T22:39:53.955966500Z",
+  "source": "multimod-scanner"
+}
