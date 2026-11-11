@@ -1,0 +1,12 @@
+{
+  "internalname": "RAHMEN_UNSICHTBAR_9625d655",
+  "displayname": "Rahmen (unsichtbar)",
+  "material": "ITEM_FRAME",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Rahmen \",underlined:0b},{color:\"white\",italic:1b,text:\"(unsichtbar)\"}],text:\"\"},\"minecraft:entity_data\":{Invisible:1b,id:\"minecraft:item_frame\"}},count:1,id:\"minecraft:item_frame\"}",
+  "capturedAt": "2026-11-11T22:39:53.954461700Z",
+  "source": "multimod-scanner"
+}
