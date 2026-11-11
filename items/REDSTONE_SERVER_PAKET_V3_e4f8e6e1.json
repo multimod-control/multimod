@@ -1,0 +1,16 @@
+{
+  "internalname": "REDSTONE_SERVER_PAKET_V3_e4f8e6e1",
+  "displayname": "Redstone Server Paket V3",
+  "material": "LIGHT_GRAY_SHULKER_BOX",
+  "cmd": 0,
+  "category": "BLOECKE",
+  "damage": 0,
+  "lore": [
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Episch"
+  ],
+  "nbttag": "{components:{\"minecraft:container\":[{item:{count:64,id:\"minecraft:hopper\"},slot:0},{item:{count:64,id:\"minecraft:hopper\"},slot:1},{item:{count:64,id:\"minecraft:hopper\"},slot:2},{item:{count:32,id:\"minecraft:redstone_ore\"},slot:3},{item:{count:16,id:\"minecraft:crafter\"},slot:4},{item:{count:32,id:\"minecraft:redstone_ore\"},slot:5},{item:{count:64,id:\"minecraft:hopper\"},slot:6},{item:{count:64,id:\"minecraft:hopper\"},slot:7},{item:{count:64,id:\"minecraft:hopper\"},slot:8},{item:{count:64,id:\"minecraft:hopper\"},slot:9},{item:{count:64,id:\"minecraft:waxed_copper_chest\"},slot:10},{item:{count:64,id:\"minecraft:hopper\"},slot:11},{item:{count:16,id:\"minecraft:crafter\"},slot:12},{item:{count:64,id:\"minecraft:redstone_block\"},slot:13},{item:{count:16,id:\"minecraft:crafter\"},slot:14},{item:{count:64,id:\"minecraft:hopper\"},slot:15},{item:{count:64,id:\"minecraft:waxed_copper_chest\"},slot:16},{item:{count:64,id:\"minecraft:hopper\"},slot:17},{item:{count:64,id:\"minecraft:hopper\"},slot:18},{item:{count:64,id:\"minecraft:hopper\"},slot:19},{item:{count:64,id:\"minecraft:hopper\"},slot:20},{item:{count:32,id:\"minecraft:redstone_ore\"},slot:21},{item:{count:16,id:\"minecraft:crafter\"},slot:22},{item:{count:32,id:\"minecraft:redstone_ore\"},slot:23},{item:{count:64,id:\"minecraft:hopper\"},slot:24},{item:{count:64,id:\"minecraft:hopper\"},slot:25},{item:{count:64,id:\"minecraft:hopper\"},slot:26}],\"minecraft:custom_name\":{extra:[{bold:1b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redstone Server Paket V3\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redstone Server Paket V3\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_purple\",italic:0b,text:\"Episch\"}],text:\"\"}]},count:1,id:\"minecraft:light_gray_shulker_box\"}",
+  "capturedAt": "2026-11-11T22:07:52.836720800Z",
+  "source": "multimod-scanner"
+}
