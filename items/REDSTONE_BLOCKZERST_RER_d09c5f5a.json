@@ -1,0 +1,23 @@
+{
+  "internalname": "REDSTONE_BLOCKZERST_RER_d09c5f5a",
+  "displayname": "Redstone Blockzerstörer",
+  "material": "GOLDEN_HORSE_ARMOR",
+  "cmd": 959,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "Zerstöre mithilfe dieser futuristischen",
+    "Kanone 15 Blöcke mit nur einem Klick!",
+    "",
+    "➥ Effekt: 15 Blöcke zerstören (Rechtsklick)",
+    "",
+    "Effekt wirkt nur auf der Redstone-Welt",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Mega Jackpot"
+  ],
+  "nbttag": "{components:{\"minecraft:attribute_modifiers\":[],\"minecraft:custom_data\":{IWCustomItems:{abilities:[{BLOCK_BREAKER:1}],worlds:[\"redstone\"]}},\"minecraft:custom_model_data\":{floats:[959.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#951F24\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redstone Blockzerstörer\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"#951F24\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Redstone Blockzerstörer\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"#951F24\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Zerstöre mithilfe dieser futuristischen\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"#951F24\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Kanone 15 Blöcke mit nur einem Klick!\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"15 Blöcke zerstören \"},{color:\"dark_gray\",italic:1b,text:\"(Rechtsklick)\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Effekt wirkt nur auf der Redstone-Welt\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_red\",italic:0b,text:\"Mega Jackpot\"}],text:\"\"}]},count:1,id:\"minecraft:golden_horse_armor\"}",
+  "capturedAt": "2026-11-11T22:07:52.826561300Z",
+  "source": "multimod-scanner"
+}
