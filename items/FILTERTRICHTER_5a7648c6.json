@@ -1,0 +1,20 @@
+{
+  "internalname": "FILTERTRICHTER_5a7648c6",
+  "displayname": "Filtertrichter",
+  "material": "HOPPER",
+  "cmd": 102,
+  "category": "BLOECKE",
+  "damage": 0,
+  "lore": [
+    "",
+    "Nimmt nur die Items auf, welche man im Menü festlegt.",
+    "",
+    "➥ Effekt: Menü öffnen (Shift+Rechtsklick)",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Unbezahlbar"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_data\":{PublicBukkitValues:{\"iwcustomhoppers:type\":\"WHITELIST\"}},\"minecraft:custom_model_data\":{floats:[102.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Filtertrichter\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Filtertrichter\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Nimmt nur die Items auf, welche man im Menü festlegt.\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Menü öffnen \"},{color:\"dark_gray\",italic:1b,text:\"(Shift+Rechtsklick)\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Unbezahlbar\"}],text:\"\"}]},count:1,id:\"minecraft:hopper\"}",
+  "capturedAt": "2026-11-11T22:07:52.835215700Z",
+  "source": "multimod-scanner"
+}
