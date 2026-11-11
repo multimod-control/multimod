@@ -1,0 +1,18 @@
+{
+  "internalname": "UNENDLICHER_LAVAEIMER_357e6132",
+  "displayname": "Unendlicher Lavaeimer",
+  "material": "LAVA_BUCKET",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "➥ Die Lava wird niemals ausgehen",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Episch"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_data\":{IWCustomItems:'{\"abilities\":{\"INFINITE_BUCKET\":1}}'},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"gold\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Unendlicher Lavaeimer\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Die \"},{color:\"gold\",italic:0b,text:\"Lava \"},{color:\"gray\",italic:0b,text:\"wird niemals ausgehen\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_purple\",italic:0b,text:\"Episch\"}],text:\"\"}]},count:1,id:\"minecraft:lava_bucket\"}",
+  "capturedAt": "2026-11-11T22:06:02.021941500Z",
+  "source": "multimod-scanner"
+}
