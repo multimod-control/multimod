@@ -1,0 +1,12 @@
+{
+  "internalname": "RANDOMAUTO_7f3c18ed",
+  "displayname": "RandomAuto",
+  "material": "PAPER",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[\"RandomAuto\"],text:\"\"}},count:1,id:\"minecraft:paper\"}",
+  "capturedAt": "2026-11-11T22:34:53.784491Z",
+  "source": "multimod-scanner"
+}
