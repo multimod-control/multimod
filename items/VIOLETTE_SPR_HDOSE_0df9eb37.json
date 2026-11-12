@@ -1,0 +1,17 @@
+{
+  "internalname": "VIOLETTE_SPR_HDOSE_0df9eb37",
+  "displayname": "Violette Sprühdose",
+  "material": "GOLDEN_HORSE_ARMOR",
+  "cmd": 10515,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "➥ Effekt: Einfärben von Wolle, Teppich, Banner",
+    "➥ Effekt: Einfärben von Beton, Trockenbeton",
+    "➥ Effekt: Einfärben von Keramik"
+  ],
+  "nbttag": "{components:{\"minecraft:attribute_modifiers\":[],\"minecraft:custom_data\":{IWCustomItems:{abilities:[{COLOR_REPLACER:1}],customData:{color:\"purple\"}}},\"minecraft:custom_model_data\":{floats:[10515.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"V\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"i\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"o\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"t\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"t\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\" \",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"S\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"p\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"r\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"ü\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"h\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"d\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"o\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"s\",underlined:0b},{bold:1b,color:\"#7C0BC1\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b}],text:\"\"},\"minecraft:dyed_color\":10511680,\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Einfärben von Wolle, Teppich, Banner\"}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Einfärben von Beton, Trockenbeton\"}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Einfärben von Keramik\"}],text:\"\"}],\"minecraft:tooltip_display\":{hidden_components:[\"minecraft:enchantments\",\"minecraft:dyed_color\"]}},count:1,id:\"minecraft:golden_horse_armor\"}",
+  "capturedAt": "2026-11-12T22:43:05.376073Z",
+  "source": "multimod-scanner"
+}
