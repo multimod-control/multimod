@@ -1,0 +1,21 @@
+{
+  "internalname": "OSTERHASEN_VERSTECKLISTE_cd5da0bb",
+  "displayname": "Osterhasen Versteckliste",
+  "material": "GUSTER_BANNER_PATTERN",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "Hiermit findest du alle versteckten Eier des Osterhasen.",
+    "",
+    "Nr. 1) AAAAAAAAAAA",
+    "Nr. 2) AAAAAA",
+    "Nr. 3) AAAA",
+    "",
+    "Signiert vom Osterhasen am 20.04.2025"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Osterhasen Versteckliste\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Osterhasen Versteckliste\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"white\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Hiermit findest du alle versteckten Eier des Osterhasen.\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Nr. 1) \",underlined:0b},{color:\"dark_gray\",italic:0b,obfuscated:1b,text:\"AAAAAAAAAAA\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Nr. 2) \",underlined:0b},{color:\"dark_gray\",italic:0b,obfuscated:1b,text:\"AAAAAA\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Nr. 3) \",underlined:0b},{color:\"dark_gray\",italic:0b,obfuscated:1b,text:\"AAAA\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert vom \",underlined:0b},{color:\"red\",italic:0b,text:\"Osterhasen \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"aqua\",italic:0b,text:\"20.04.2025\"}],text:\"\"}]},count:1,id:\"minecraft:guster_banner_pattern\"}",
+  "capturedAt": "2026-11-12T22:43:05.437317400Z",
+  "source": "multimod-scanner"
+}
