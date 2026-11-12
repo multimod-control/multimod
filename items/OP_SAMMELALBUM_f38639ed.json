@@ -1,0 +1,12 @@
+{
+  "internalname": "OP_SAMMELALBUM_f38639ed",
+  "displayname": "OP Sammelalbum",
+  "material": "GOLDEN_HORSE_ARMOR",
+  "cmd": 836,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:attribute_modifiers\":[],\"minecraft:custom_data\":{PublicBukkitValues:{\"iwboosterpacksbukkit:album-item\":1b}},\"minecraft:custom_model_data\":{floats:[836.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"blue\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"OP Sammelalbum\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"blue\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"OP Sammelalbum\",underlined:0b}],text:\"\"},\"minecraft:tooltip_display\":{hidden_components:[\"minecraft:attribute_modifiers\"]}},count:1,id:\"minecraft:golden_horse_armor\"}",
+  "capturedAt": "2026-11-12T13:46:35.777795700Z",
+  "source": "multimod-scanner"
+}
