@@ -1,0 +1,23 @@
+{
+  "internalname": "ELYTRA_55b68ad5",
+  "displayname": "Elytra",
+  "material": "ELYTRA",
+  "cmd": 0,
+  "category": "RUESTUNG",
+  "damage": 0,
+  "lore": [
+    "                                   ",
+    "Spieler: .SiRInYouRFaCE88",
+    " ",
+    "Startgebot: 59.999$",
+    "Sofortkauf: 89.999$",
+    " ",
+    "Endet in: 2 Tage"
+  ],
+  "enchantments": {
+    "minecraft:mending": 1
+  },
+  "nbttag": "{components:{\"minecraft:enchantments\":{\"minecraft:mending\":1},\"minecraft:lore\":[{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:1b,text:\"                                   \",underlined:0b},{color:\"dark_gray\",italic:0b,strikethrough:0b,text:\"\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Spieler: \",underlined:0b},{color:\"aqua\",italic:0b,text:\".SiRInYouRFaCE88\"},{color:\"gray\",italic:0b,text:\"\"}],text:\"\"},{extra:[\" \"],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Startgebot: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"59.999\"},{color:\"gray\",italic:0b,text:\"$\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Sofortkauf: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"89.999\"},{color:\"gray\",italic:0b,text:\"$\"}],text:\"\"},{extra:[\" \"],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Endet in: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"2 Tage\"},{color:\"gray\",italic:0b,text:\"\"}],text:\"\"}],\"minecraft:repair_cost\":1},count:1,id:\"minecraft:elytra\"}",
+  "capturedAt": "2026-11-15T19:02:33.951620800Z",
+  "source": "multimod-scanner"
+}
