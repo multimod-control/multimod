@@ -1,0 +1,17 @@
+{
+  "internalname": "OP_MEN_2d076193",
+  "displayname": "OP Menü",
+  "material": "BREAD",
+  "cmd": 0,
+  "category": "NAHRUNG",
+  "damage": 0,
+  "lore": [
+    "Extras: mit doppeltem",
+    "Belag",
+    "────────────────────",
+    "Signiert von Makitahippi am 15.11.2026"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"OP Menü\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{color:\"white\",italic:0b,text:\"Extras: \"},{color:\"gray\",italic:0b,text:\"mit doppeltem\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Belag\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:1b,text:\"────────────────────\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert von \",underlined:0b},{color:\"red\",italic:0b,text:\"Makitahippi\"},{color:\"gray\",italic:0b,text:\" am \"},{color:\"aqua\",italic:0b,text:\"15.11.2026\"}],text:\"\"}]},count:1,id:\"minecraft:bread\"}",
+  "capturedAt": "2026-11-15T12:58:09.599221400Z",
+  "source": "multimod-scanner"
+}
