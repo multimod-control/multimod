@@ -1,0 +1,25 @@
+{
+  "internalname": "WALDFL_GEL_1e8be969",
+  "displayname": "Waldflügel",
+  "material": "ELYTRA",
+  "cmd": 0,
+  "category": "RUESTUNG",
+  "damage": 0,
+  "lore": [
+    "                                   ",
+    "Spieler: LoryLoo",
+    " ",
+    "Aktuelles Gebot: 50.000$ (philemon318)",
+    " ",
+    "Gesamt Gebote: 1",
+    " ",
+    "Endet in: 1 Minute 13 Sekunden"
+  ],
+  "enchantments": {
+    "minecraft:unbreaking": 5,
+    "minecraft:mending": 2
+  },
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#658245\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"W\",underlined:0b},{bold:1b,color:\"#6F9841\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"a\",underlined:0b},{bold:1b,color:\"#7AAE3C\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#84C338\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"d\",underlined:0b},{bold:1b,color:\"#8FD933\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"f\",underlined:0b},{bold:1b,color:\"#99EF2F\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#B3F363\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"ü\",underlined:0b},{bold:1b,color:\"#CCF797\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"g\",underlined:0b},{bold:1b,color:\"#E6FBCB\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#FFFFFF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:mending\":2,\"minecraft:unbreaking\":5},\"minecraft:lore\":[{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:1b,text:\"                                   \",underlined:0b},{color:\"dark_gray\",italic:0b,strikethrough:0b,text:\"\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Spieler: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"LoryLoo\"},{color:\"gray\",italic:0b,text:\"\"}],text:\"\"},{extra:[\" \"],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Aktuelles Gebot: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"50.000\"},{color:\"gray\",italic:0b,text:\"$ (\"},{color:\"aqua\",italic:0b,text:\"philemon318\"},{color:\"gray\",italic:0b,text:\")\"}],text:\"\"},{extra:[\" \"],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gesamt Gebote: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"1\"},{color:\"gray\",italic:0b,text:\"\"}],text:\"\"},{extra:[\" \"],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Endet in: \",underlined:0b},{color:\"aqua\",italic:0b,text:\"1 Minute 13 Sekunden\"},{color:\"gray\",italic:0b,text:\"\"}],text:\"\"}]},count:1,id:\"minecraft:elytra\"}",
+  "capturedAt": "2026-11-15T19:02:33.952124500Z",
+  "source": "multimod-scanner"
+}
