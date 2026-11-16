@@ -1,0 +1,12 @@
+{
+  "internalname": "20_3c8a0be8",
+  "displayname": "20",
+  "material": "PAPER",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[\"20\"],text:\"\"}},count:1,id:\"minecraft:paper\"}",
+  "capturedAt": "2026-11-16T15:41:45.129962200Z",
+  "source": "multimod-scanner"
+}
