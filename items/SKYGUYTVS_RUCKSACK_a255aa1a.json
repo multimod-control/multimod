@@ -1,0 +1,12 @@
+{
+  "internalname": "SKYGUYTVS_RUCKSACK_a255aa1a",
+  "displayname": "SkyGuyTVs Rucksack",
+  "material": "RED_SHULKER_BOX",
+  "cmd": 0,
+  "category": "BLOECKE",
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"red\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"SkyGuyTVs Rucksack\",underlined:0b}],text:\"\"}},count:1,id:\"minecraft:red_shulker_box\"}",
+  "capturedAt": "2026-11-16T13:33:04.304003200Z",
+  "source": "multimod-scanner"
+}
