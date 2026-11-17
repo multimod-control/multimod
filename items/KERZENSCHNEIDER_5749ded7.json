@@ -1,0 +1,20 @@
+{
+  "internalname": "KERZENSCHNEIDER_5749ded7",
+  "displayname": "Kerzenschneider",
+  "material": "SHEARS",
+  "cmd": 0,
+  "category": "WERKZEUGE",
+  "damage": 0,
+  "lore": [
+    "",
+    "Signiert von OPSUCHT am 01.11.2026",
+    "",
+    "➥ Effekt: Baut Kerzen mit einem Klick ab",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Selten"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_data\":{IWCustomItems:{abilities:[{CANDLE_CUTTER:1}]}},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#FADAA3\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Kerzenschneider\",underlined:0b}],text:\"\"},\"minecraft:item_name\":{extra:[{bold:1b,color:\"#FADAA3\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Kerzenschneider\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert von \",underlined:0b},{color:\"red\",italic:0b,text:\"OPSUCHT \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"aqua\",italic:0b,text:\"01.11.2026\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Baut Kerzen mit einem Klick ab\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"gold\",italic:0b,text:\"Selten\"}],text:\"\"}]},count:1,id:\"minecraft:shears\"}",
+  "capturedAt": "2026-11-17T19:25:53.475429800Z",
+  "source": "multimod-scanner"
+}
