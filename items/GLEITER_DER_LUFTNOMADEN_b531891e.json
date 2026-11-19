@@ -1,0 +1,26 @@
+{
+  "internalname": "GLEITER_DER_LUFTNOMADEN_b531891e",
+  "displayname": "Gleiter der Luftnomaden",
+  "material": "STICK",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "Mit diesem Werkzeug der Luft-",
+    "nomaden wirst du federleicht!",
+    "",
+    "Signiert von Aang am 01.06.2024",
+    "",
+    "➥ Effekt: Sanfter Fall",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Episch"
+  ],
+  "enchantments": {
+    "minecraft:knockback": 5
+  },
+  "nbttag": "{components:{\"minecraft:custom_data\":{IWCustomItems:{abilities:[{SLOW_FALLING:1}]}},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#FFFFFF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"G\",underlined:0b},{bold:1b,color:\"#FBF8F4\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#F8F1EA\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#F4EADF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"i\",underlined:0b},{bold:1b,color:\"#F1E3D4\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"t\",underlined:0b},{bold:1b,color:\"#EDDCCA\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#EAD5BF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"r \",underlined:0b},{bold:1b,color:\"#E6CEB4\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"d\",underlined:0b},{bold:1b,color:\"#E3C7AA\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#DFC09F\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"r \",underlined:0b},{bold:1b,color:\"#DCB995\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"L\",underlined:0b},{bold:1b,color:\"#D8B18A\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"u\",underlined:0b},{bold:1b,color:\"#D4AA7F\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"f\",underlined:0b},{bold:1b,color:\"#D1A375\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"t\",underlined:0b},{bold:1b,color:\"#CD9C6A\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"n\",underlined:0b},{bold:1b,color:\"#CA955F\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"o\",underlined:0b},{bold:1b,color:\"#C68E55\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"m\",underlined:0b},{bold:1b,color:\"#C3874A\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"a\",underlined:0b},{bold:1b,color:\"#BF803F\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"d\",underlined:0b},{bold:1b,color:\"#BC7935\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#B8722A\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"n\",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:knockback\":5},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"white\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Mit diesem Werkzeug der Luft-\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"nomaden wirst du federleicht!\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert von \",underlined:0b},{color:\"red\",italic:0b,text:\"Aang \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"aqua\",italic:0b,text:\"01.06.2024\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Sanfter Fall\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"dark_purple\",italic:0b,text:\"Episch\"}],text:\"\"}]},count:1,id:\"minecraft:stick\"}",
+  "capturedAt": "2026-11-19T21:05:36.107790200Z",
+  "source": "multimod-scanner"
+}
