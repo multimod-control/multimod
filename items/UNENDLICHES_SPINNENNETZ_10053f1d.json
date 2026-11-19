@@ -1,0 +1,23 @@
+{
+  "internalname": "UNENDLICHES_SPINNENNETZ_10053f1d",
+  "displayname": "Unendliches Spinnennetz",
+  "material": "COBWEB",
+  "cmd": 0,
+  "category": "BLOECKE",
+  "damage": 0,
+  "lore": [
+    "",
+    "Signiert von OPSUCHT am 10.12.2025",
+    "",
+    "➥ Effekt: Dieses Spinnennetz wird niemals verbraucht",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Legendär"
+  ],
+  "enchantments": {
+    "minecraft:efficiency": 1
+  },
+  "nbttag": "{components:{\"minecraft:custom_data\":{IWCustomItems:{abilities:[{INFINITE_COBWEB:1}]}},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Unendliches Spinnennetz\",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:efficiency\":1},\"minecraft:item_name\":{extra:[{bold:1b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Unendliches Spinnennetz\",underlined:0b}],text:\"\"},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert von \",underlined:0b},{color:\"red\",italic:0b,text:\"OPSUCHT \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"aqua\",italic:0b,text:\"10.12.2025\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"Dieses Spinnennetz wird niemals verbraucht\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"red\",italic:0b,text:\"Legendär\"}],text:\"\"}],\"minecraft:tooltip_display\":{hidden_components:[\"minecraft:enchantments\"]},\"minecraft:unbreakable\":{}},count:1,id:\"minecraft:cobweb\"}",
+  "capturedAt": "2026-11-19T21:07:08.959826800Z",
+  "source": "multimod-scanner"
+}
