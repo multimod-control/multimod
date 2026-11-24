@@ -1,0 +1,16 @@
+{
+  "internalname": "SCHILDKR_TEN_SPAWN_EGG_6b138cb4",
+  "displayname": "Schildkröten-Spawn-Egg",
+  "material": "TURTLE_SPAWN_EGG",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Unbezahlbar"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#DFDFDF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"S\",underlined:0b},{bold:1b,color:\"#D4DBDB\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"c\",underlined:0b},{bold:1b,color:\"#CAD7D7\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"h\",underlined:0b},{bold:1b,color:\"#BFD3D3\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"i\",underlined:0b},{bold:1b,color:\"#B5CFCF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#AACBCB\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"d\",underlined:0b},{bold:1b,color:\"#9FC7C7\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"k\",underlined:0b},{bold:1b,color:\"#95C3C3\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"r\",underlined:0b},{bold:1b,color:\"#8ABFBF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"ö\",underlined:0b},{bold:1b,color:\"#7FBBBB\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"t\",underlined:0b},{bold:1b,color:\"#75B7B7\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#6AB3B3\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"n\",underlined:0b},{bold:1b,color:\"#60AFAF\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"-\",underlined:0b},{bold:1b,color:\"#55ABAB\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"S\",underlined:0b},{bold:1b,color:\"#4AA7A7\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"p\",underlined:0b},{bold:1b,color:\"#40A3A3\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"a\",underlined:0b},{bold:1b,color:\"#359F9F\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"w\",underlined:0b},{bold:1b,color:\"#2A9B9B\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"n\",underlined:0b},{bold:1b,color:\"#209797\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"-\",underlined:0b},{bold:1b,color:\"#159393\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"E\",underlined:0b},{bold:1b,color:\"#0B8F8F\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"g\",underlined:0b},{bold:1b,color:\"#008B8B\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"g\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Unbezahlbar\"}],text:\"\"}]},count:1,id:\"minecraft:turtle_spawn_egg\"}",
+  "capturedAt": "2026-11-24T15:41:01.745264600Z",
+  "source": "multimod-scanner"
+}
