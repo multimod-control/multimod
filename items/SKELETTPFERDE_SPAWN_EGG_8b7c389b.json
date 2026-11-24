@@ -1,0 +1,16 @@
+{
+  "internalname": "SKELETTPFERDE_SPAWN_EGG_8b7c389b",
+  "displayname": "Skelettpferde-Spawn-Egg",
+  "material": "SKELETON_HORSE_SPAWN_EGG",
+  "cmd": 0,
+  "category": "SONSTIGES",
+  "damage": 0,
+  "lore": [
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Selten"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#64644C\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"S\",underlined:0b},{bold:1b,color:\"#686851\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"k\",underlined:0b},{bold:1b,color:\"#6C6C55\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#70705A\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#74745E\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#787863\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"t\",underlined:0b},{bold:1b,color:\"#7B7B67\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"t\",underlined:0b},{bold:1b,color:\"#7F7F6C\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"p\",underlined:0b},{bold:1b,color:\"#838371\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"f\",underlined:0b},{bold:1b,color:\"#878775\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#8B8B7A\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"r\",underlined:0b},{bold:1b,color:\"#8F8F7E\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"d\",underlined:0b},{bold:1b,color:\"#939383\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#979787\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"-\",underlined:0b},{bold:1b,color:\"#9B9B8C\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"S\",underlined:0b},{bold:1b,color:\"#9F9F91\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"p\",underlined:0b},{bold:1b,color:\"#A2A295\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"a\",underlined:0b},{bold:1b,color:\"#A6A69A\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"w\",underlined:0b},{bold:1b,color:\"#AAAA9E\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"n\",underlined:0b},{bold:1b,color:\"#AEAEA3\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"-\",underlined:0b},{bold:1b,color:\"#B2B2A7\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"E\",underlined:0b},{bold:1b,color:\"#B6B6AC\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"gg\",underlined:0b}],text:\"\"},\"minecraft:lore\":[{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"gold\",italic:0b,text:\"Selten\"}],text:\"\"}]},count:1,id:\"minecraft:skeleton_horse_spawn_egg\"}",
+  "capturedAt": "2026-11-24T15:41:01.776882400Z",
+  "source": "multimod-scanner"
+}
